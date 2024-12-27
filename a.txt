@@ -1,2 +1,2 @@
 text file 1
-a.txt aa
+b.txt b
